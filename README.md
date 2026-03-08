@@ -3,3 +3,9 @@ A visual character encoding/decoding based on mirror symmetry of alphanumeric sh
 
 # X9v7v2v2h4v3x8v7-h4x5h2b3h3h4x8 x11b5x11x14! 
 
+
+# Capabilities
+Possibilities for applying this.
+
+# Extensions
+Possibilities for extending this idea.
