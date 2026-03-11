@@ -22,6 +22,10 @@ Possible ways to extend this idea.
 - Non-alphanumeric characters
 - Many... other possibilities!
 
+# Hint
+
+![img1](https://raw.githubusercontent.com/mbiesiad/symmetry-encoder-decoder/refs/heads/main/img/img1.png)
+
 ----
 
 If you'd like to use this - feel free! If you'd like to modify or build upon it - that's welcome as well.
