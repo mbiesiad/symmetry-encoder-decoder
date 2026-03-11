@@ -19,6 +19,7 @@ Possible ways to extend this idea.
 
 - Other languages beyond English
 - Dependency on a specific font or multiple fonts
+- Non-alphanumeric characters
 - Many... other possibilities!
 
 ----
