@@ -11,7 +11,7 @@ The project is based on the [Latin](https://en.wikipedia.org/wiki/Latin_alphabet
 Possible applications of this idea.
 
 - [CTF](https://en.wikipedia.org/wiki/Capture_the_flag_(cybersecurity)) challenges
-- Text encoding (without understanding the concept, most people will not recognize it; a real-world example: [Base64](https://developer.mozilla.org/en-US/docs/Glossary/Base64))
+- [Text encoding](https://www.geeksforgeeks.org/computer-networks/difference-between-encryption-and-encoding/) (without understanding the concept, most people will not recognize it; a real-world example: [Base64](https://developer.mozilla.org/en-US/docs/Glossary/Base64))
 - Once you understand the concept, the encoding can be decoded either manually or automatically (similar to b64).
 
 # Extensions
