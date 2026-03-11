@@ -12,6 +12,7 @@ Possible applications of this idea.
 
 - CTF challenges
 - Text encoding (without understanding the concept, most people will not recognize it; a real-world example: [Base64](https://developer.mozilla.org/en-US/docs/Glossary/Base64))
+- Once you understand the concept, the encoding can be decoded either manually or automatically (similar to b64).
 
 # Extensions
 Possible ways to extend this idea.
