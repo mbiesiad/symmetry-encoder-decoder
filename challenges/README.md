@@ -28,4 +28,6 @@ What is the difference between A and B?
 
 ----
 
+Author: mbiesiad
+
 Enjoy! 
